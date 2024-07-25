@@ -2,7 +2,7 @@
 	Mau ngapain ngab? Tinggal pake aja
 	apa susahnya euy!
 
-	Script by Sanz - Yt : FREE TUTORIAL
+	Script by Oce om : developer 
 #endif
 
 static  char data [] = 
