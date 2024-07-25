@@ -1,6 +1,6 @@
 Welcome
 --------|
-![](https://tenor.com/cqeVcRS3cFR.gif)
+![]("https://tenor.com/cqeVcRS3cFR.gif")
 
 # Brutal-WA
 Script termux spam chat wangsaf terbaru !
